@@ -1,3 +1,5 @@
+//Multiple line string
+
 const firstName = "Justin";
 const lastName = "Timberlake";
 
